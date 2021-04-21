@@ -1,0 +1,20 @@
+C:\code\csc339\csc339\assignment 4\Connect4\bin\Debug\Connect4.exe.config
+C:\code\csc339\csc339\assignment 4\Connect4\bin\Debug\Connect4.exe
+C:\code\csc339\csc339\assignment 4\Connect4\bin\Debug\Connect4.pdb
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.exe
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.pdb
+C:\code\csc339\csc339\assignment 4\Connect4\obj\Debug\Connect4.Form1.resources
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.Form1.resources
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Camden\Documents\Files\School\Spring 2021 Schoolwork\CSC 339\csc339\assignment 4\Connect4\obj\Debug\Connect4.pdb
